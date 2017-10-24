@@ -15,7 +15,6 @@
  *	@param	identifier	NSString that identifies the icon
  *	@param	bgColor     UIColor for background image Color
  *	@param	iconColor   UIColor for icon color
- *	@param	scale       Scale factor between the image size and the icon size
  *	@param	size        Size of the image to be generated
  *
  *	@return	Image to be used wherever you want
@@ -27,7 +26,6 @@
  *	@param	identifier	NSString that identifies the icon
  *	@param	bgColor     UIColor for background image Color
  *	@param	iconColor	UIColor for icon color
- *	@param	scale       Scale factor between the image size and the icon size
  *	@param	fontSize	Font size used to be generate the image
  *
  *	@return	Image to be used wherever you want
